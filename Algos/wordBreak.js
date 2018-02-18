@@ -21,7 +21,7 @@ function wordBreak(string, list) {
 
     }
 
-    return false
+    return true
 
 }
 
