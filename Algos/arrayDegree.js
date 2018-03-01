@@ -25,6 +25,9 @@ function arrayDegree(array) {
 
 }
 
+console.log('hello');
+
+
 let a = [1, 1, 2, 3, 4, 5, 7, 8]
 
 arrayDegree(a)
