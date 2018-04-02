@@ -22,7 +22,7 @@ class Array
     
   
     
-  return false
+  return true
   
   end
 
